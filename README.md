@@ -7,8 +7,8 @@ After finishing my first 8 months studying English, I decided to go back into th
 
 Would you like to find me?
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://www.linkedin.com/in/joselia-reis-495371103/" />
+<a target="_blank" href="https://www.linkedin.com/in/joselia-reis-495371103/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
