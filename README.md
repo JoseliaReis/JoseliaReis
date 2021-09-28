@@ -1,8 +1,8 @@
 # 👋 Hi all :)
 
 <p> My name is Joselia Reis, I am 30 years old, from Brazil. 
-I am currently studying the Higher Diploma in Science in Computing at NCI having previously graduated as a Lawyer in Brazil in 2016 where I worked for three years, practising labour and consumer law. In 2019 I decided to move to Ireland to learn English and improve my career.</p>
-<p>After finishing my first 8 months studying English, I decided to go back into third level to study Computer Science. I am very interested in combining my expertise in law and my growing skills in IT within the realm of Data Analyst, Business Analyst, Data Engineer, Data Science and data vizualization.</p>
+Professional with a previous background in legal and completing a Higher Diploma in Science in Computing with the aim of building a career in Data Science, combining expertise in law and an analytical mindset with the knowledge and interest for business and information technology. Academic experience of analysing large sets of data to identify patterns and trends using tools such as Python, Tableau, and SQL and relational databases. Understanding of the importance of data and insights to achieve business value, willing to acquire new skills, and embrace emerging challenges to become proficient in real-world data science. </p>
+<p>Strong problem-solving, attention to detail, and accuracy with excellent communication, presentation, and organizational skills. Currently looking for a Graduate or entry-level Data Science, BI, or BA opportunity providing business insights through data analysis to create and deliver value to businesses.</p>
 
 
 <p> Would you like to find me?</p>
