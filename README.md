@@ -1,7 +1,6 @@
 # 👋 Hi all :)
 
-<p> My name is Joselia Reis, I am 30 years old, from Brazil. 
-Professional with a previous background in legal and completing a Higher Diploma in Science in Computing with the aim of building a career in Data Science, combining expertise in law and an analytical mindset with the knowledge and interest for business and information technology. Academic experience of analysing large sets of data to identify patterns and trends using tools such as Python, Tableau, and SQL and relational databases. Understanding of the importance of data and insights to achieve business value, willing to acquire new skills, and embrace emerging challenges to become proficient in real-world data science. </p>
+<p> Professional with a previous background in legal and completing a Higher Diploma in Science in Computing with the aim of building a career in Data Science, combining expertise in law and an analytical mindset with the knowledge and interest for business and information technology. Academic experience of analysing large sets of data to identify patterns and trends using tools such as Python, Tableau, and SQL and relational databases. Understanding of the importance of data and insights to achieve business value, willing to acquire new skills, and embrace emerging challenges to become proficient in real-world data science. </p>
 <p>Strong problem-solving, attention to detail, and accuracy with excellent communication, presentation, and organizational skills. Currently looking for a Graduate or entry-level Data Science, BI, or BA opportunity providing business insights through data analysis to create and deliver value to businesses.</p>
 
 
